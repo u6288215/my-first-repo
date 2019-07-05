@@ -1,1 +1,3 @@
-# My First Repository
+# My First Repositor
+
+Napat Pangkul
